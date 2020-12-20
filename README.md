@@ -9,11 +9,13 @@
 
 ### 🌱 I’m currently learning ...
 
- - C, Java, Python, Js, Ts, Ruby, Kotlin
- - Artificial Intelligence - scikit learn, tensorflow, keras
- - Application - React Native, Flutter, Android
- - Frontend - React
- - Backend - Django, Flask, Node, RubyOnRails
+ - C, Java, Python, Js, Ts, Ruby, Kotlin, Go
+ - Artificial Intelligence - tensorflow, keras
+ - Application - React Native, Flutter, Android Native, IOS Native
+ - Frontend - React, Vue, Angular
+ - Backend - Django, Flask, Node, RubyOnRails, Gin
+ - Database - MySQL, MongoDB, MariaDB
+ - DevOps - Docker, Ansible, Kubernetes, Terraform, Github Actions
  - Design Application, Making User Experience
 
 <!--
